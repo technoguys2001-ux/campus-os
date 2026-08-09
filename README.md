@@ -435,16 +435,4 @@ VITE_SOCKET_URL=
 
 10) Cloud Deployment on Render
 
----
-
-## Author
-
-Nishant Agarwal
-
-MERN Stack Developer | Problem Solver | Software Engineering Enthusiast
-
-GitHub: https://github.com/CodriftNishant
-
----
-
 If you found this project interesting, consider giving it a ⭐ on GitHub.
